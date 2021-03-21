@@ -1,0 +1,22 @@
+This Project was made by Shiven Shanmugananthan (30) and Joshua Shibu Varghese (33) of class 9E
+
+*The Main Page is "Cultural Heritage of India (Main).html"
+
+*CSS was used to format the files as it was easier to do so
+
+*We have added a few effects which are:
+	1) The crop of the background and the area of the text changes as you resize the window, 
+	   and it is always visible no matter the window size.
+	2) The hyperlinks have been made to look like buttons.
+	3) The buttons change size and colour when hovered upon.
+	4) A grey area behind the text is added to give a shadow effect.
+	5) The grey area in the Qutub Minar page has a gradient effect.
+
+*The code was tested on Microsoft Edge, Google Chrome and Internet Explorer.
+
+*It is recommended that the code be run on a laptop or a desktop.
+
+*This code was compressed to meet size requirements, If any abnormalities arrise it may be due to this.
+
+*It is recommended that the whole file be extracted before being run
+ 
