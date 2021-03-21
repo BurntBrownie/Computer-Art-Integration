@@ -1,6 +1,6 @@
 This Project was made by Shiven Shanmugananthan (30) and Joshua Shibu Varghese (33) of class 9E
 
-*The Main Page is "Cultural Heritage of India (Main).html"
+*The Main Page is "index.html"
 
 *CSS was used to format the files as it was easier to do so
 
@@ -16,7 +16,5 @@ This Project was made by Shiven Shanmugananthan (30) and Joshua Shibu Varghese (
 
 *It is recommended that the code be run on a laptop or a desktop.
 
-*This code was compressed to meet size requirements, If any abnormalities arrise it may be due to this.
 
-*It is recommended that the whole file be extracted before being run
  
