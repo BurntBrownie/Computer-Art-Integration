@@ -1,4 +1,4 @@
-This Project was made by Shiven Shanmugananthan (30) and Joshua Shibu Varghese (33) of Class 9E, Delhi Public School, Nerul.
+This Project was made by Shiven Shanmugananthan (30) Class 9E, Delhi Public School, Nerul.
 
 *The Main Page is "index.html"
 
